@@ -1,0 +1,10 @@
+
+*.sw[po]
+*.map
+*.log
+
+_UpgradeReport_Files/
+Backup/
+Debug/
+
+

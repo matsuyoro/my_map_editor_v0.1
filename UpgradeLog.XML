@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="簡易マップエディタ">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\ymatsuda\プログラミング\old_Program関連\C関連\C++\C言語\editer_map11-25\簡易マップエディタ.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Users\ymatsuda\プログラミング\old_Program関連\C関連\C++\C言語\editer_map11-25\簡易マップエディタ.suo">
+</Property><Property Name="Date" Value="2011年11月23日">
+</Property><Property Name="Time" Value="18:39">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="簡易マップエディタ.sln" Description="ファイルは正常に C:\Users\ymatsuda\プログラミング\old_Program関連\C関連\C++\C言語\editer_map11-25\Backup\簡易マップエディタ.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="簡易マップエディタ.suo" Description="ファイルは正常に C:\Users\ymatsuda\プログラミング\old_Program関連\C関連\C++\C言語\editer_map11-25\Backup\簡易マップエディタ.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="簡易マップエディタ.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="簡易マップエディタ.sln" Description="Converted">
+</Event></UpgradeLog>
